@@ -1,4 +1,4 @@
-package com.devsuperior.entities;
+package com.devsuperior.dsvendas.entities;
 
 import java.time.LocalDate;
 
